@@ -2,12 +2,19 @@
 A Java-based web application that implements a Dual Access Control Mechanism to enhance the security, integrity, and efficiency of cloud-based data storage and sharing systems. This system leverages cryptographic techniques and machine learning to prevent unauthorized access and optimize resource usage.
 
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Java (JSP, Servlets)
+
 Database: MySQL (managed using SQLYog)
+
 Server: Apache Tomcat 6.0
+
 IDE: Eclipse Oxygen
+
 Connectivity: JDBC
+
 
 📌 Key Features
 🔒 Dual Access Control: Combines attribute-based encryption (CP-ABE) with secure download handling.
