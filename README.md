@@ -4,7 +4,6 @@ A Java-based web application that implements a Dual Access Control Mechanism to 
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
-
 Backend: Java (JSP, Servlets)
 
 Database: MySQL (managed using SQLYog)
