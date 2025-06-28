@@ -24,16 +24,17 @@ Connectivity: JDBC
 🔐 Cryptography: SHA, AES, and CP-ABE for layered security.
 
 
+
 📁 Role-Based Architecture:
 
 Data Owner
 
 Authority
 
-
 Cloud Server
 
 End User
+
 
 
 
